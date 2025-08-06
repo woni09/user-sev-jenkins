@@ -7,5 +7,5 @@ public record ApplicantSignupRequest(
         String password,
         String name,
         LocalDate birthDate,
-        String email
+        
 ) {}
